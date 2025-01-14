@@ -1,0 +1,14 @@
+
+{
+    "editor.insertSpaces": false,
+    "editor.detectIndentation": false,
+    "editor.tabSize": 4,
+	"cmake.debugConfig": {
+        "args": [
+            "--physical-device",
+			"0",
+			"--shader",
+			"gpubytecode.spv"
+        ]
+    }
+}
